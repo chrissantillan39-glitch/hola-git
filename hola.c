@@ -1,7 +1,6 @@
 #include <stdio.h>
-	int main(void){
-	print("Hola Github/);
 
-return 0;
-
- }
+int main(void) {
+    printf("Hola Github\n");
+    return 0;
+}
